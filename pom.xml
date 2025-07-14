@@ -58,6 +58,6 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>inventory-service-exe</finalName>
     </build>
-
 </project>
